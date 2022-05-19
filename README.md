@@ -1,2 +1,2 @@
 # testrepo
-csak úgy
+csak úgy vagy nem
